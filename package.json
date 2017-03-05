@@ -1,0 +1,28 @@
+{
+  "name": "koki-server",
+  "version": "1.1.0",
+  "description": "A node based socket chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/var-kar/koki-server.git"
+  },
+  "keywords": [
+    "chat",
+    "server",
+    "terminal"
+  ],
+  "author": "Karthik Vasudevan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/var-kar/koki-server/issues"
+  },
+  "homepage": "https://github.com/var-kar/koki-server#readme",
+  "bin": {
+    "koki-server": "koki.js"
+  },
+  "preferGlobal": "true"
+}
